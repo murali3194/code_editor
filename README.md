@@ -29,7 +29,7 @@ A Phoenix LiveView app to **fetch, edit, and save files directly to GitHub** usi
 ### 1. Clone the Repository
 
 ```shell
-git clone https://github.com/yourname/code_editor.git
+git clone https://github.com/murali3194/code_editor.git
 cd code_editor
 ```
 
